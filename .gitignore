@@ -1,0 +1,12 @@
+/.idea
+/Include
+/Lib
+locators/__pycache__
+pages/__pycache__
+parsers/__pycache__
+locators/__init__.py
+pages/__init__.py
+parsers/__init__.py
+Scripts
+pyvenv.cfg
+__pycache__
